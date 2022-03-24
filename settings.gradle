@@ -1,0 +1,4 @@
+rootProject.name = 'dss-homeworks'
+include 'hw2'
+include 'hw3'
+
